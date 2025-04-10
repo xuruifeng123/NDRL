@@ -1,0 +1,67 @@
+*WATER BALANCE OUTPUT FILE
+
+*DSSAT Cropping System Model Ver. 4.8.2.006 -  APR 10, 2025 22:06:00
+
+*RUN   1        : Control - 350 ppm         CRGRO048 AZMC8901    1
+ MODEL          : CRGRO048 - Cotton
+ EXPERIMENT     : AZMC8901 CO 1989 FACE EXPERIMENT
+ DATA PATH      :
+ TREATMENT  1   : Control - 350 ppm         CRGRO048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day 1989/100    437.30
+!     Soil H20 (final) on Year/day 1989/263    460.70
+!     Effective Irrigation                    1063.05
+!     Precipitation                             22.00
+!     Water added with new mulch                 0.24
+!     Net lateral flow                           0.00
+!     Drainage                                 144.63
+!     Tiledrain flow                             0.00
+!     Runoff                                     0.00
+!     Mulch evaporation                          0.95
+!     Soil Evaporation                         317.90
+!     Transpiration                            598.39
+!     Total evapotranspiration                 916.29
+!     Total potential evapotranspiration      1394.45
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.01
+
+!     Final Balance                            -0.006
+
+
+*DSSAT Cropping System Model Ver. 4.8.2.006 -  APR 10, 2025 22:06:01
+
+*RUN   2        : CO2 Enrichment - 550 ppm  CRGRO048 AZMC8901    2
+ MODEL          : CRGRO048 - Cotton
+ EXPERIMENT     : AZMC8901 CO 1989 FACE EXPERIMENT
+ DATA PATH      :
+ TREATMENT  2   : CO2 Enrichment - 550 ppm  CRGRO048
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day 1989/100    437.30
+!     Soil H20 (final) on Year/day 1989/263    461.30
+!     Effective Irrigation                    1063.05
+!     Precipitation                             22.00
+!     Water added with new mulch                 0.25
+!     Net lateral flow                           0.00
+!     Drainage                                 136.13
+!     Tiledrain flow                             0.00
+!     Runoff                                     0.00
+!     Mulch evaporation                          1.17
+!     Soil Evaporation                         310.28
+!     Transpiration                            613.70
+!     Total evapotranspiration                 923.99
+!     Total potential evapotranspiration      1390.84
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.01
+
+!     Final Balance                            -0.005
+

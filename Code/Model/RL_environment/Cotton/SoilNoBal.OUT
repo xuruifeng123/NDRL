@@ -1,0 +1,59 @@
+*SOIL ORGANIC N BALANCE
+
+*DSSAT Cropping System Model Ver. 4.8.2.006 -  APR 10, 2025 22:06:00
+
+*RUN   1        : Control - 350 ppm         CRGRO048 AZMC8901    1
+ MODEL          : CRGRO048 - Cotton
+ EXPERIMENT     : AZMC8901 CO 1989 FACE EXPERIMENT
+ DATA PATH      :
+ TREATMENT  1   : Control - 350 ppm         CRGRO048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                1989/100            1989/263
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 11823.44            11723.94
+!   Soil Litter N                                    0.00                3.33
+!   N in Surface Residue                             0.00               22.92
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                    29.09
+!   N immobilized                                    0.00
+!   N mineralized                                                      102.33
+
+!   Total N balance                              11852.25            11852.53
+!   Balance                                                             0.282
+
+!===============================================================================
+
+*DSSAT Cropping System Model Ver. 4.8.2.006 -  APR 10, 2025 22:06:01
+
+*RUN   2        : CO2 Enrichment - 550 ppm  CRGRO048 AZMC8901    2
+ MODEL          : CRGRO048 - Cotton
+ EXPERIMENT     : AZMC8901 CO 1989 FACE EXPERIMENT
+ DATA PATH      :
+ TREATMENT  2   : CO2 Enrichment - 550 ppm  CRGRO048
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                1989/100            1989/263
+!SOIL N BALANCE                                 -----------kg N/ha-----------
+
+!   Soil Humus N                                 11823.44            11724.52
+!   Soil Litter N                                    0.00                3.85
+!   N in Surface Residue                             0.00               24.17
+
+!   Added to / Removed from Soil:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N from senesced plant matter                    31.43
+!   N immobilized                                    0.00
+!   N mineralized                                                      102.32
+
+!   Total N balance                              11854.58            11854.87
+!   Balance                                                             0.282

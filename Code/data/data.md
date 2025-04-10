@@ -1,0 +1,1 @@
+# Storing local meteorological data, soil data, and crop variety information.
