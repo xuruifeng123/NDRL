@@ -1,0 +1,169 @@
+*PLANT N BALANCE
+
+*DSSAT Cropping System Model Ver. 4.8.2.006 -  APR 10, 2025 22:06:00
+
+*RUN   1        : Control - 350 ppm         CRGRO048 AZMC8901    1
+ MODEL          : CRGRO048 - Cotton
+ EXPERIMENT     : AZMC8901 CO 1989 FACE EXPERIMENT
+ DATA PATH      :
+ TREATMENT  1   : Control - 350 ppm         CRGRO048
+
+
+ CROP           : Cotton           CULTIVAR : Deltapine 77     ECOTYPE :CO0001
+ STARTING DATE  : APR 10 1989
+ PLANTING DATE  : APR 17 1989      PLANTS/m2 :    10.0    ROW SPACING : 102.cm
+ WEATHER        : AZMC   1989
+ SOIL           : AZMC920001     TEXTURE : CL    - TRIX CLAY LOAM
+ SOIL INIT COND : DEPTH:210cm EXTR. H2O:246.3mm  NO3: 31.4kg/ha  NH4:  0.0kg/ha
+ WATER BALANCE  : IRRIGATE ON REPORTED DATE(S)
+ IRRIGATION     :     1119 mm IN    35 APPLICATIONS
+ NITROGEN BAL.  : SOIL-N & N-UPTAKE SIMULATION; NO N-FIXATION
+ N-FERTILIZER   :      133 kg/ha IN     4 APPLICATIONS
+ RESIDUE/MANURE : INITIAL :     0 kg/ha ;       0 kg/ha IN     0 APPLICATIONS
+ ENVIRONM. OPT. : DAYL= A  0.00  SRAD= A  0.00  TMAX= A  0.00  TMIN= A  0.00
+                  RAIN= A  0.00  CO2 = R 350.0  DEW =A  0.00  WIND=A  0.00
+ SIMULATION OPT : WATER   :Y  NITROGEN:Y  N-FIX:N  PHOSPH :N  PESTS  :N
+                  PHOTO   :L  ET      :R  INFIL:S  HYDROL :R  SOM    :G
+                  CO2 352ppm  NSWIT   :1  EVAP :R  SOIL   :2  STEMP  :D
+ MANAGEMENT OPT : PLANTING:R  IRRIG   :R  FERT :R  RESIDUE:N  HARVEST:M
+                  WEATHER :M  TILLAGE :Y
+
+*SUMMARY OF SOIL AND GENETIC INPUT PARAMETERS
+
+   SOIL LOWER UPPER   SAT  EXTR  INIT   ROOT   BULK     pH    NO3    NH4    ORG
+  DEPTH LIMIT LIMIT    SW    SW    SW   DIST   DENS                          C
+   cm   cm3/cm3    cm3/cm3    cm3/cm3         g/cm3         ugN/g  ugN/g     %
+-------------------------------------------------------------------------------
+  0-  5 0.202 0.320 0.417 0.118 0.250   1.00   1.31   8.50   3.00   0.00   0.41
+  5- 15 0.201 0.319 0.424 0.118 0.295   0.74   1.27   8.50   3.00   0.00   0.35
+ 15- 30 0.199 0.319 0.424 0.120 0.310   0.61   1.27   8.50   3.00   0.00   0.27
+ 30- 40 0.198 0.318 0.419 0.120 0.280   0.45   1.30   8.60   2.00   0.00   0.24
+ 40- 50 0.198 0.318 0.419 0.120 0.280   0.45   1.30   8.60   2.00   0.00   0.24
+ 50- 60 0.198 0.318 0.387 0.120 0.230   0.30   1.47   8.60   1.00   0.00   0.16
+ 60- 70 0.198 0.318 0.387 0.120 0.230   0.30   1.47   8.60   1.00   0.00   0.16
+ 70- 90 0.186 0.299 0.359 0.113 0.200   0.18   1.57   8.60   1.00   0.00   0.30
+ 90-110 0.159 0.275 0.347 0.116 0.180   0.10   1.57   8.60   0.75   0.00   0.10
+110-120 0.159 0.275 0.347 0.116 0.160   0.10   1.57   8.60   0.50   0.00   0.10
+120-130 0.159 0.275 0.347 0.116 0.160   0.10   1.57   8.60   0.50   0.00   0.10
+130-150 0.136 0.254 0.336 0.118 0.150   0.05   1.57   8.60   0.50   0.00 -99.00
+150-170 0.136 0.254 0.336 0.118 0.150   0.00   1.57   8.60   0.50   0.00 -99.00
+170-190 0.128 0.244 0.331 0.116 0.150   0.00   1.57   8.60   0.50   0.00 -99.00
+190-210 0.128 0.244 0.331 0.116 0.244   0.00   1.57   8.60   0.01   0.01 -99.00
+
+TOT-210  34.6  59.2  76.5  24.6  43.7  <--cm   -  kg/ha-->   31.4    0.0  38918
+SOIL ALBEDO    : 0.20      EVAPORATION LIMIT :12.00         MIN. FACTOR  : 1.00
+RUNOFF CURVE # :70.00      DRAINAGE RATE     : 0.29         FERT. FACTOR : 0.90
+
+ Cotton           CULTIVAR: IB0001-Deltapine 77       ECOTYPE: CO0001
+ CSDVAR :23.00  PPSEN  : 0.01  EMG-FLW:34.00  FLW-FSD:15.00  FSD-PHM : 49.00
+ WTPSD  :0.180  SDPDVR : 27.0  SDFDUR :35.00  PODDUR : 8.00  XFRUIT  :  0.80
+ THRESH : 70.0  SDPRO  :0.153  SDLIP   : 0.120
+
+
+   PLANT COMPONENT  HARVEST     LOST*   TOTAL  BALANCE
+   ---------------  -------- kg[N]/ha -------  -------
+   Leaf N             20.89     9.57    30.46
+   Stem N             17.59     0.54    18.13
+   Shell N            10.49    13.04    23.53
+   Seed N             79.63     0.00    79.63
+   Root N              8.15     6.26    14.40
+   Nodule N            0.00     0.00     0.00
+   Total N           136.75    29.40   166.15
+   N leakage                             5.86
+   TOTAL N                                      172.01
+
+
+   N INPUTS TO SYSTEM                kg[N]/ha
+   ------------------                --------
+   Seed N At Planting                    0.33
+   N2 Fixed                              0.00
+   N Uptake from Soil                  171.64
+   TOTAL N                                      171.97
+
+   * Lost due to senescence, freeze, pest or disease damage.
+
+*******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.8.2.006 -  APR 10, 2025 22:06:01
+
+*RUN   2        : CO2 Enrichment - 550 ppm  CRGRO048 AZMC8901    2
+ MODEL          : CRGRO048 - Cotton
+ EXPERIMENT     : AZMC8901 CO 1989 FACE EXPERIMENT
+ DATA PATH      :
+ TREATMENT  2   : CO2 Enrichment - 550 ppm  CRGRO048
+
+
+ CROP           : Cotton           CULTIVAR : Deltapine 77     ECOTYPE :CO0001
+ STARTING DATE  : APR 10 1989
+ PLANTING DATE  : APR 17 1989      PLANTS/m2 :    10.0    ROW SPACING : 102.cm
+ WEATHER        : AZMC   1989
+ SOIL           : AZMC920001     TEXTURE : CL    - TRIX CLAY LOAM
+ SOIL INIT COND : DEPTH:210cm EXTR. H2O:246.3mm  NO3: 31.4kg/ha  NH4:  0.0kg/ha
+ WATER BALANCE  : IRRIGATE ON REPORTED DATE(S)
+ IRRIGATION     :     1119 mm IN    35 APPLICATIONS
+ NITROGEN BAL.  : SOIL-N & N-UPTAKE SIMULATION; NO N-FIXATION
+ N-FERTILIZER   :      133 kg/ha IN     4 APPLICATIONS
+ RESIDUE/MANURE : INITIAL :     0 kg/ha ;       0 kg/ha IN     0 APPLICATIONS
+ ENVIRONM. OPT. : DAYL= A  0.00  SRAD= A  0.00  TMAX= A  0.00  TMIN= A  0.00
+                  RAIN= A  0.00  CO2 = R 350.0  DEW =A  0.00  WIND=A  0.00
+ SIMULATION OPT : WATER   :Y  NITROGEN:Y  N-FIX:N  PHOSPH :N  PESTS  :N
+                  PHOTO   :L  ET      :R  INFIL:S  HYDROL :R  SOM    :G
+                  CO2 352ppm  NSWIT   :1  EVAP :R  SOIL   :2  STEMP  :D
+ MANAGEMENT OPT : PLANTING:R  IRRIG   :R  FERT :R  RESIDUE:N  HARVEST:M
+                  WEATHER :M  TILLAGE :Y
+
+*SUMMARY OF SOIL AND GENETIC INPUT PARAMETERS
+
+   SOIL LOWER UPPER   SAT  EXTR  INIT   ROOT   BULK     pH    NO3    NH4    ORG
+  DEPTH LIMIT LIMIT    SW    SW    SW   DIST   DENS                          C
+   cm   cm3/cm3    cm3/cm3    cm3/cm3         g/cm3         ugN/g  ugN/g     %
+-------------------------------------------------------------------------------
+  0-  5 0.202 0.320 0.417 0.118 0.250   1.00   1.31   8.50   3.00   0.00   0.41
+  5- 15 0.201 0.319 0.424 0.118 0.295   0.74   1.27   8.50   3.00   0.00   0.35
+ 15- 30 0.199 0.319 0.424 0.120 0.310   0.61   1.27   8.50   3.00   0.00   0.27
+ 30- 40 0.198 0.318 0.419 0.120 0.280   0.45   1.30   8.60   2.00   0.00   0.24
+ 40- 50 0.198 0.318 0.419 0.120 0.280   0.45   1.30   8.60   2.00   0.00   0.24
+ 50- 60 0.198 0.318 0.387 0.120 0.230   0.30   1.47   8.60   1.00   0.00   0.16
+ 60- 70 0.198 0.318 0.387 0.120 0.230   0.30   1.47   8.60   1.00   0.00   0.16
+ 70- 90 0.186 0.299 0.359 0.113 0.200   0.18   1.57   8.60   1.00   0.00   0.30
+ 90-110 0.159 0.275 0.347 0.116 0.180   0.10   1.57   8.60   0.75   0.00   0.10
+110-120 0.159 0.275 0.347 0.116 0.160   0.10   1.57   8.60   0.50   0.00   0.10
+120-130 0.159 0.275 0.347 0.116 0.160   0.10   1.57   8.60   0.50   0.00   0.10
+130-150 0.136 0.254 0.336 0.118 0.150   0.05   1.57   8.60   0.50   0.00 -99.00
+150-170 0.136 0.254 0.336 0.118 0.150   0.00   1.57   8.60   0.50   0.00 -99.00
+170-190 0.128 0.244 0.331 0.116 0.150   0.00   1.57   8.60   0.50   0.00 -99.00
+190-210 0.128 0.244 0.331 0.116 0.244   0.00   1.57   8.60   0.01   0.01 -99.00
+
+TOT-210  34.6  59.2  76.5  24.6  43.7  <--cm   -  kg/ha-->   31.4    0.0  38918
+SOIL ALBEDO    : 0.20      EVAPORATION LIMIT :12.00         MIN. FACTOR  : 1.00
+RUNOFF CURVE # :70.00      DRAINAGE RATE     : 0.29         FERT. FACTOR : 0.90
+
+ Cotton           CULTIVAR: IB0001-Deltapine 77       ECOTYPE: CO0001
+ CSDVAR :23.00  PPSEN  : 0.01  EMG-FLW:34.00  FLW-FSD:15.00  FSD-PHM : 49.00
+ WTPSD  :0.180  SDPDVR : 27.0  SDFDUR :35.00  PODDUR : 8.00  XFRUIT  :  0.80
+ THRESH : 70.0  SDPRO  :0.153  SDLIP   : 0.120
+
+
+   PLANT COMPONENT  HARVEST     LOST*   TOTAL  BALANCE
+   ---------------  -------- kg[N]/ha -------  -------
+   Leaf N             20.32     9.23    29.55
+   Stem N             16.21     0.52    16.73
+   Shell N            10.90    14.65    25.54
+   Seed N             82.29     0.00    82.29
+   Root N              8.52     7.35    15.87
+   Nodule N            0.00     0.00     0.00
+   Total N           138.24    31.74   169.98
+   N leakage                             4.45
+   TOTAL N                                      174.43
+
+
+   N INPUTS TO SYSTEM                kg[N]/ha
+   ------------------                --------
+   Seed N At Planting                    0.33
+   N2 Fixed                              0.00
+   N Uptake from Soil                  174.07
+   TOTAL N                                      174.40
+
+   * Lost due to senescence, freeze, pest or disease damage.
+
+*******************************************************************************

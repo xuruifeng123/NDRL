@@ -1,0 +1,67 @@
+*Soil Carbon Balance
+
+*DSSAT Cropping System Model Ver. 4.8.2.006 -  APR 10, 2025 22:06:00
+
+*RUN   1        : Control - 350 ppm         CRGRO048 AZMC8901    1
+ MODEL          : CRGRO048 - Cotton
+ EXPERIMENT     : AZMC8901 CO 1989 FACE EXPERIMENT
+ DATA PATH      :
+ TREATMENT  1   : Control - 350 ppm         CRGRO048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                1989-099            1989-099
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              118234.41           117255.60
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                    0.00              105.47
+!   Surface Litter C                                 0.00              501.29
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          118234.41           117862.36
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                734.02
+!   CO2-C emitted                                 1106.05
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               118968.43           118968.41
+!   Balance                                                            -0.016
+
+*DSSAT Cropping System Model Ver. 4.8.2.006 -  APR 10, 2025 22:06:01
+
+*RUN   2        : CO2 Enrichment - 550 ppm  CRGRO048 AZMC8901    2
+ MODEL          : CRGRO048 - Cotton
+ EXPERIMENT     : AZMC8901 CO 1989 FACE EXPERIMENT
+ DATA PATH      :
+ TREATMENT  2   : CO2 Enrichment - 550 ppm  CRGRO048
+  
+
+!                                                 Initial               Final
+!                                                Year/DOY            Year/DOY
+!                                                1989-099            1989-099
+! SOIL C BALANCE                                 --------- kg[C]/ha ---------
+!  SOIL & SURFACE ORGANIC C
+!   Soil Organic C                              118234.41           117265.55
+!   Surface Organic C                                0.00                0.00
+!   Soil Litter C                                    0.00              122.39
+!   Surface Litter C                                 0.00              534.36
+!   Soil methane C stored                            0.00                0.00
+!                                                --------            --------
+!   Total C in Soil and Surface Layers          118234.41           117922.30
+!  ADDITIONS AND REMOVALS:
+!   C in Harvest Residues from Previous              0.00
+!   C from Organic Applications                      0.00
+!   C in returned senesced material                815.56
+!   CO2-C emitted                                 1127.65
+!   CH4-C emitted                                    0.00
+!   CH4-C leached                                    0.00
+!   CH4-C plant uptake                               0.00
+!                                                --------            --------
+! TOTAL C BALANCE                               119049.97           119049.95
+!   Balance                                                            -0.025

@@ -1,0 +1,1 @@
+#Store weather data in .WTH files.

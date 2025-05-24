@@ -1,0 +1,2 @@
+# Store the interaction environment corresponding to the agent, including: RL_environment, Cotton, dssat_tool
+## Among them, RL_environment represents the interaction environment of the agent, Cotton represents the simulation environment, and dssat_tool represents the essential data for running DSSAT.

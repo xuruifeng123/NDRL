@@ -1,0 +1,171 @@
+*** *  DSSAT PROFILE LINUX* ***
+DDB // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DTB // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DTE // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DTO // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DAT // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DPT // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DIM // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DTP // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DPF // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DFO // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DIS // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DDW // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DWG // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DWC // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DDS // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DTS // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DDG // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DCG // /home/xurf23/DRL/Model/RL_environment/dssat_tool/TOOLS/GENCALC GENCALC2.EXE
+DGL // /home/xurf23/DRL/Model/RL_environment/dssat_tool/TOOLS/GLUE GLUE.BAT
+DPM // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+DDE // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+TOG // /home/xurf23/DRL/Model/RL_environment/dssat_tool/TOOLS/GBUILD GBUILD.EXE
+
+MAL // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 PRFRM048
+MBA // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CSCER048
+MBH // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MBM // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 PRFRM048
+MBN // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MBR // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 PRFRM048
+MBS // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 BSCER048
+MCB // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MCH // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MCN // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MCO // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MCP // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MCS // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CSYCA048
+MFA // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MFB // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MGB // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MGG // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 PRFRM048
+MLT // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MML // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 MLCER048
+MMZ // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 MZCER048
+MNP // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MPI // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 PIALO048
+MPN // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MPP // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MPR // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MPT // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 PTSUB048
+MRI // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 RICER048
+MSB // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MSC // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 SCCAN048
+MSF // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MSG // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 SGCER048
+MSI // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+MSU // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MSW // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 SWCER048
+MTF // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 TFAPS048
+MTM // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MTN // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 TNARO048
+MTR // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 TRARO048
+MVB // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MWH // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CSCER048
+MOT // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+MU1 // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+MU2 // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+MIO // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+MLO // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+
+MGR // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+NSH // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+ASP // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+ASS // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048
+ASA // /home/xurf23/DRL/Model/RL_environment/dssat_tool VARAN2.EXE
+AGR // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+AQS // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048
+AQA // /home/xurf23/DRL/Model/RL_environment/dssat_tool SUSTAIN2.EXE
+ASX // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+APS // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048
+APV // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+APM // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+APA // /home/xurf23/DRL/Model/RL_environment/dssat_tool/dssat_parameter VARAN2.EXE
+APJ // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+APF // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+APP // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+APK // /home/xurf23/DRL/Model/RL_environment/dssat_tool DISC9801.EXE
+TOE // /WINDOWS NOTEPAD.EXE
+TOS // /
+TOM // /
+STD // /home/xurf23/DRL/data/StandardData
+WED // /home/xurf23/DRL/data/Weather
+WGD // /home/xurf23/DRL/data/Weather/Gen
+CLD // /home/xurf23/DRL/data/Weather/Climate
+WMD // /home/xurf23/DRL/data/Weather/Month
+SLD // /home/xurf23/DRL/data/Soil
+CRD // /home/xurf23/DRL/data/Genotype
+FID // /home/xurf23/DRL/data/Background
+ALD // /home/xurf23/DRL/data/Alfalfa
+GCD // /home/xurf23/DRL/data/GCWork
+GUD // /home/xurf23/DRL/data/GLWork
+BAD // /home/xurf23/DRL/data/Barley
+BHD // /home/xurf23/DRL/data/Bahia
+BMD // /home/xurf23/DRL/data/Bermudagrass
+BND // /home/xurf23/DRL/data/Drybean
+BRD // /home/xurf23/DRL/data/Brachiaria
+BSD // /home/xurf23/DRL/data/Sugarbeet
+CBD // /home/xurf23/DRL/data/Cabbage
+CHD // /home/xurf23/DRL/data/Chickpea
+CND // /home/xurf23/DRL/data/Canola
+COD // /home/xurf23/DRL/Model/RL_environment/Cotton
+CPD // /home/xurf23/DRL/data/Cowpea
+CSD // /home/xurf23/DRL/data/Cassava
+FAD // /home/xurf23/DRL/data/Fallow
+FBD // /home/xurf23/DRL/data/Fababean
+GBD // /home/xurf23/DRL/data/GreenBean
+GGD // /home/xurf23/DRL/data/Guineagrass
+LTD // /home/xurf23/DRL/data/Lentil
+MLD // /home/xurf23/DRL/data/PearlMillet
+MZD // /home/xurf23/DRL/data/Maize
+NPD // /home/xurf23/DRL/data/Napier
+PED // /home/xurf23/DRL/data/Pea
+PID // /home/xurf23/DRL/data/Pineapple
+PND // /home/xurf23/DRL/data/Peanut
+POD // /home/xurf23/DRL/data/PerennialPeanut
+PPD // /home/xurf23/DRL/data/Pigeonpea
+PRD // /home/xurf23/DRL/data/BellPepper
+PTD // /home/xurf23/DRL/data/Potato
+RID // /home/xurf23/DRL/data/Rice
+SBD // /home/xurf23/DRL/data/Soybean
+SCD // /home/xurf23/DRL/data/Sugarcane
+SFD // /home/xurf23/DRL/data/Safflower
+SGD // /home/xurf23/DRL/data/Sorghum
+SID // /home/xurf23/DRL/Model/RL_environment/dssat_tool
+SUD // /home/xurf23/DRL/data/Sunflower
+SWD // /home/xurf23/DRL/data/SweetCorn
+TFD // /home/xurf23/DRL/data/Teff
+TMD // /home/xurf23/DRL/data/Tomato
+TND // /home/xurf23/DRL/data/Tanier
+TRD // /home/xurf23/DRL/data/Taro
+VBD // /home/xurf23/DRL/data/Velvetbean
+WHD // /home/xurf23/DRL/data/Wheat
+U1D // /home/xurf23/DRL/data/CROP1
+U2D // /home/xurf23/DRL/data/CROP2
+OTD // /
+ASD // /home/xurf23/DRL/data/Seasonal
+AQD // /home/xurf23/DRL/data/Sequence
+APD // /home/xurf23/DRL/data/Spatial
+PSD // /home/xurf23/DRL/data/Pest
+ECD // /home/xurf23/DRL/data/Economic
+TOD // /
+
+MQU // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+QUD // /home/xurf23/DRL/Model/RL_environment/dssat_toolQuinoa
+ACC // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048
+CCD // /home/xurf23/DRL/Model/RL_environment/dssat_tool/ClimateChange
+AYF // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048
+YFD // /home/xurf23/DRL/Model/RL_environment/dssat_tool/YieldForecast
+SRD // /home/xurf23/DRL/Model/RL_environment/dssat_tool/Strawberry
+MSR // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+CID // /home/xurf23/DRL/Model/RL_environment/dssat_tool/Chia
+MCI // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MPE // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+MPO // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 PRFRM048
+MSS // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+SSD // /home/xurf23/DRL/Model/RL_environment/dssat_tool/Sesame
+
+MBC // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+BCD // /home/xurf23/DRL/Model/RL_environment/dssat_tool/dssat_parameter/Carinata
+MGY // /home/xurf23/DRL/Model/RL_environment/dssat_tool dscsm048 CRGRO048
+GYD // /home/xurf23/DRL/Model/RL_environment/dssat_tool/dssat_parameter/Guar
